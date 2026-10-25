@@ -1,0 +1,3 @@
+[submodule "lib/winguiengine"]
+	path = lib/winguiengine
+	url = git@github.com:TakahashiPancake/winguiengine.git
